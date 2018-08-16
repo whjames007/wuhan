@@ -23,7 +23,7 @@ public class FirstWuhanController {
 		logger.info(param.toString());
 		Map<String, Object> result = new HashMap<>();
 		result.put("id", param.getId());
-		result.put("name", "您好123，世界！");
+		result.put("name", "您好1234，世界！");
 		return result;
 	}
 }
