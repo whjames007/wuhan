@@ -1,4 +1,6 @@
-package com.hubei.www.wuhan.design.patterns;
+package com.hubei.www.wuhan.design.patterns.impl;
+
+import com.hubei.www.wuhan.design.patterns.ISenderService;
 
 public class SmsSenderService implements ISenderService {
 
